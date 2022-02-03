@@ -1,0 +1,19 @@
+"status": "success",
+    "message": "List product: ",
+    "data": [
+        {
+            "_id": "61fb42627f64310d7aff7d40",
+            "nama": "Intel Core i9 series",
+            "harga": 7000000,
+            "stok": 2,
+            "__v": 0
+        },
+        {
+            "_id": "61fb428f7f64310d7aff7d43",
+            "nama": "Monitor",
+            "harga": 150000,
+            "stok": 20,
+            "__v": 0
+        }
+    ]
+}
