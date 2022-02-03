@@ -1,6 +1,4 @@
-"status": "success",
-    "message": "List product: ",
-    "data": [
+[
         {
             "_id": "61fb42627f64310d7aff7d40",
             "nama": "Intel Core i9 series",
